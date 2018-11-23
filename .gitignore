@@ -1,0 +1,4 @@
+node_modules
+.env
+priv_validator*.json
+.DS_Store

@@ -1,0 +1,30 @@
+{
+  "app_hash": "b600cc693f96924721e7e55944663e41e6410fe24a1dfbbb9befe8368673a372",
+  "chain_id": "test-chain-UmH5BL",
+  "genesis_time": "2018-11-23T06:57:03.800379359-05:00",
+  "validators": [
+    {
+    "name": "",
+    "power": 10,
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "OcXF9aNuJ/TWFCpPPupof788Fdr3pFqD7uhg9s7Ar84="
+    }
+  },
+  {
+    "name": "",
+    "power": 10,
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "ZNkEx4dehCT3F8jL4ykxkSuMr2AoFgskRAiHjF2YdQo="
+    }
+  },
+  {
+    "name": "",
+    "power": 10,
+    "pub_key": {
+      "type": "AC26791624DE60",
+      "value": "TvzIlLYsAeaLhIfBiMCuReSRnt1yVTT6iEVQG9NQgCY="
+    }
+  }]
+}
