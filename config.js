@@ -2,9 +2,9 @@ module.exports = {
     /**
      * IP Addresses for each validator node
      */
-    dev: true,
     peers: [
-        '159.65.168.34', // Devslopes
-        '198.199.65.48'  // Stuart
+        '142.93.247.156',
+        '104.248.63.55',
+        '104.248.49.8'
     ]
 }
