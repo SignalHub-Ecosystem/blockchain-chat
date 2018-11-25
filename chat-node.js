@@ -36,9 +36,9 @@ async function main() {
          */
         initialState: {
             messages: [
-                { sender: 'System', message: 'secure chat' },
-                { sender: 'System', message: 'on the blockchain' },
-                { sender: 'System', message: 'endless uses' }
+                { sender: 'System', message: 'beginning' },
+                { sender: 'System', message: 'blockchain' },
+                { sender: 'System', message: 'chat' }
             ]
         }
     };
